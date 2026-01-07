@@ -1,0 +1,8 @@
+{
+  "name": "EduSphere AI - School Management & LMS Hub",
+  "description": "A comprehensive school platform featuring specialized dashboards for students, teachers, principals, and admins with integrated Gemini-powered AI tools for lesson planning, student support, and administrative efficiency.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
